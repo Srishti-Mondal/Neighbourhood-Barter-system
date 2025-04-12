@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_addnewitem.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\addnewitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_homeicon.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\homeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_settings.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_chat.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_youritems.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\youritems.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\font_abril_fatface.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\font\\abril_fatface.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.neighbourhoodbartersystem.app-debug-34:/layout_activity_settings.xml.flat",
+        "source": "com.example.neighbourhoodbartersystem.app-main-36:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_filter.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\filter.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_ongoing.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\ongoing.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_earrings.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\earrings.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_exchange.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\exchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_createnew.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\createnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_filter_popup.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\filter_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_ic_exchange.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\ic_exchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\font_abyssinica_sil.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\font\\abyssinica_sil.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_grid_item.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_exchange.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\exchange.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_kettle.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\kettle.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\menu_ex_menu.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\menu\\ex_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.10.2\\com.example.neighbourhoodbartersystem.app-main-36:\\xml\\data_extraction_rules.xml"
+    }
+]
